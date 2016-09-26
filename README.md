@@ -34,8 +34,8 @@ Time spent: 4 hours
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. Is there a way to implement this app so that I don't have to create two different flows for a new user and an existing user? (I have two duplicate tab bar view controller sets with different image content)
+2. How do I implement the 'sign in' and 'create account' flows through one root view controller instead of two?
 
 ### Video Walkthrough 
 
